@@ -5,7 +5,8 @@ Dont pay for home network scanners or whatever.
 # To Do
 
 1. use regex to minimize sort time
-2. provide setup.py 
+2. provide setup.py
+3. Start rust sister project to avoid python3 dependencies.
 
 # Dependencies
 
