@@ -2,12 +2,12 @@
 See all possible devices on your network.
 Dont pay for home network scanners or whatever.
 
-# ToDo
+# To Do
 
 1. use regex to minimize sort time
 2. provide setup.py 
 
-# dependencies
+# Dependencies
 
   python3
   nmap
@@ -40,3 +40,6 @@ git clone https://github.com/Donny-GUI/Open-Network-Enumerator.git
 cd Open-Network-Enumerator
 python3 main.py
 ```
+# Nmap
+
+For full enumeration consider installing the amazing and time-tested nmap. A true staple for network and internet searching.
